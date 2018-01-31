@@ -1,0 +1,11 @@
+D:\Dropbox\IoT\TestTCPClient\bin\Debug\TestTCPClient.exe.config
+D:\Dropbox\IoT\TestTCPClient\bin\Debug\TestTCPClient.exe
+D:\Dropbox\IoT\TestTCPClient\bin\Debug\TestTCPClient.pdb
+D:\Dropbox\IoT\TestTCPClient\bin\Debug\SimpleTCP.dll
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.csprojResolveAssemblyReference.cache
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.Properties.Resources.resources
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.csproj.GenerateResource.Cache
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.csproj.CoreCompileInputs.cache
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.exe
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.pdb
+D:\Dropbox\IoT\TestTCPClient\obj\Debug\TestTCPClient.Form1.resources
